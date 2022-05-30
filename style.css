@@ -534,7 +534,8 @@ ul li ul li a {
 }
 
 .company {
-    padding: 100px;
+	padding: 100px;
+	padding-bottom: 0px;
 }
 
 .company .company-caption {}
